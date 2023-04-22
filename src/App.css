@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.letter {
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  font-size: 3rem;
+  color: white;
+  
+}
+.letter1{
+    position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  color: white;
+}
+.letter2{
+    position: absolute;
+  top: 250%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+  color: white;
+}
+
+.letter3{
+    position: absolute;
+  top: 280%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
